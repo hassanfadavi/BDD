@@ -1,7 +1,7 @@
 Feature:Login FUNCTIONALITY
 
   Scenario: Login using valid credential
-    Given  The user is on login pag
+    Given  The user is on login page
     When  Enters valid username and password
     Then User should be navigated to dashboard
 

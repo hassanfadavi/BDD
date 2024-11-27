@@ -11,7 +11,7 @@ import org.testng.annotations.BeforeMethod;
 public class BaseTest {
 
     // WebDriver instance to be shared across test methods
-    protected WebDriver driver;
+    protected  WebDriver driver;
 
     // Logger instance to log test actions and important events
     protected static final Logger logger = LogManager.getLogger(BaseTest.class);
@@ -21,7 +21,7 @@ public class BaseTest {
      * and navigates to the base URL from the configuration.
      */
     @BeforeMethod
-    public void setup() {
+    public  void setup( ) {
         // Initialize WebDriver using the DriverFactory
         driver = DriverFactory.initializeWebDriver();
 
@@ -41,6 +41,6 @@ public class BaseTest {
     @AfterMethod
     public void tearDown() {
         // Quit the WebDriver and close the browser window
-        DriverFactory.quitDriver();
+//        DriverFactory.quitDriver();
     }
 }

@@ -171,3 +171,102 @@
 2024-11-21 18:43:47 INFO  BaseTest:21 - Verifying that the browser is opened and we are navigating to correct URL.
 2024-11-21 18:43:47 INFO  BaseTest:28 - Verifying that the userName passe
 2024-11-21 18:43:50 INFO  BaseTest:34 - Verifying that the password passed
+2024-11-25 18:55:08 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-25 18:55:17 INFO  BaseTest:32 - Started test with URL https://www.facebook.com/
+2024-11-25 18:55:17 INFO  BaseTest:21 - Verifying that the browser is opened and we are navigating to correct URL.
+2024-11-25 18:55:18 INFO  BaseTest:28 - Verifying that the userName passe
+2024-11-25 18:55:21 INFO  BaseTest:34 - Verifying that the password passed
+2024-11-25 18:55:49 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-25 18:55:55 INFO  BaseTest:32 - Started test with URL https://www.facebook.com/
+2024-11-25 18:55:55 INFO  BaseTest:21 - Verifying that the browser is opened and we are navigating to correct URL.
+2024-11-25 18:55:56 INFO  BaseTest:28 - Verifying that the userName passe
+2024-11-25 18:55:59 INFO  BaseTest:34 - Verifying that the password passed
+2024-11-25 18:57:23 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-25 18:57:30 INFO  BaseTest:32 - Started test with URL https://www.facebook.com/
+2024-11-25 18:57:30 INFO  BaseTest:21 - Verifying that the browser is opened and we are navigating to correct URL.
+2024-11-25 18:57:30 INFO  BaseTest:28 - Verifying that the userName passe
+2024-11-25 18:57:34 INFO  BaseTest:34 - Verifying that the password passed
+2024-11-26 09:07:36 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 09:07:44 INFO  BaseTest:32 - Started test with URL https://www.facebook.com/
+2024-11-26 09:11:36 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 09:11:46 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 09:35:12 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 09:35:16 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 09:35:33 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 09:35:38 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 09:36:28 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 09:36:36 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 09:36:49 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 09:36:54 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 09:37:57 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 09:38:05 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 09:38:20 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 09:40:26 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 09:40:32 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 09:40:48 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 09:40:55 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 09:41:08 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 09:41:13 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 09:41:28 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 09:41:33 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 09:47:56 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 09:48:19 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 09:48:34 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 09:48:41 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 09:49:00 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 09:49:05 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 09:50:03 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 09:50:09 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 09:52:32 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 09:52:43 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 09:56:55 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 09:57:13 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 09:57:56 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 09:58:00 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 09:58:32 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 09:58:38 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 09:58:56 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 09:59:02 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 10:00:03 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 10:00:10 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 10:00:17 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 10:00:27 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 10:00:37 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 10:00:44 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 10:01:03 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 10:01:12 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 10:01:31 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 10:01:41 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 10:04:06 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 10:04:11 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 10:04:50 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 10:04:58 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 10:05:53 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 10:05:59 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 10:08:54 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 10:09:03 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 10:13:49 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 10:13:55 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 10:15:50 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 10:15:59 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 10:16:28 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 10:16:34 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 10:29:59 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 10:30:05 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 10:32:45 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 10:32:50 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 10:33:52 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 10:34:04 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 10:34:13 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 10:34:44 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 10:34:50 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 10:36:36 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 10:36:44 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 11:07:28 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 11:07:32 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 11:08:04 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 11:08:09 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 19:03:04 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 19:03:14 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/
+2024-11-26 19:03:40 INFO  ConfigManager:46 - Configuration loaded for environmentTEST
+2024-11-26 19:03:46 INFO  BaseTest:32 - Started test with URL https://www.amazon.com/

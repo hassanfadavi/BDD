@@ -3,7 +3,7 @@ package pages.Fcebook;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.interactions.Actions;
 
 public class FaceBookMainPage {
 
@@ -13,6 +13,10 @@ public class FaceBookMainPage {
     public WebElement userName;
     public WebElement passWord;
     public WebElement loginButton;
+    public Actions ac;
+
+
+
 
     //constructor
     public FaceBookMainPage(WebDriver driver){
@@ -23,13 +27,25 @@ public class FaceBookMainPage {
     }
 
     //userName
-    public void inputUserName(String userName){
-        this.userName.sendKeys(userName);
+    public void inputUserName(String userName)   {
+                this.userName.sendKeys(userName);
+//        ac.click(this.userName);
+//        for(   char ch:userName.toCharArray()  ){
+//            ac.sendKeys(String.valueOf(ch)).perform();
+//            Thread.sleep(1000);
+//        }
+
 
     }
     //password
-    public void inputPassWord(String passWord){
-        this.passWord.sendKeys(passWord);
+    public void inputPassWord(String passWord)   {
+                this.passWord.sendKeys(passWord);
+//        ac.click(this.passWord);
+//        for(   char ch:passWord.toCharArray()  ){
+//            ac.sendKeys(String.valueOf(ch)).perform();
+//            Thread.sleep(1000);
+//        }
+
     }
     //click on Login
     public void loginButton(){
